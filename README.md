@@ -6,20 +6,6 @@ Soy un estudiante salvadoreño que cursa una carrera técnica en **Ingeniería e
 
 Soy estudiante de Ingeniería en Desarrollo de Software en El Salvador, actualmente cursando una carrera técnica. Me apasiona la tecnología, siempre estoy buscando aprender más y crecer tanto en el desarrollo front-end como back-end. Me encanta explorar nuevas tecnologías y profundizar en los fundamentos de la ciberseguridad.
 
-- 🛠 Tecnologías que manejo:
-  -  HTML5  
-  -  MySQL  
-  -  Cassandra  
-  -  MongoDB 
-
-- 🌱 Actualmente estoy aprendiendo:
-  -  Python  
-  -  Laravel    
-  -  PHP
-  -  Bash
-  -  Redes
-  -  Fundamentos de ciberseguridad
-
 - 👨‍💻 Me enfoco en el desarrollo web y la seguridad informática, buscando siempre mejorar mis habilidades y aportar soluciones innovadoras.
 
 - 🚀 Creo que la tecnología es la clave para transformar ideas en realidad y cada nuevo aprendizaje me acerca más a ese objetivo.
@@ -28,17 +14,13 @@ Soy estudiante de Ingeniería en Desarrollo de Software en El Salvador, actualme
 
 ## My Skills Include
 
-<h4> 📋 Languages </h4>
-#  Tecnologías y Herramientas
+<h4> 🛠️Tecnologías y Herramientas </h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,mongodb,vscode,postman,nodejs,npm,vscode" />
 </p>
 
-
-
-<h4> 🎛️ Operating System</h4>
+<h4> 🎛️ Operatin System</h4>
 <span>
-<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
